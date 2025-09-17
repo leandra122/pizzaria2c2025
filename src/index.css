@@ -28,7 +28,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: hotpink;
+  background-color: rgb(200, 166, 255);
   color:rgba(255, 255, 255, 0.87);
 }
 
